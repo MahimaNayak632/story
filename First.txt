@@ -1,2 +1,4 @@
 This was first line of first file.
 This was second line of first file.
+
+I am addinf this line while I am in logout branch.
