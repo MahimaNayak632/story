@@ -1,2 +1,4 @@
 This was first line of first file.
 This was second line of first file.
+
+This change was made while in master branch.
